@@ -19,4 +19,4 @@ npm run build --report
 ```
 
 #Screenshot
-![Alt text](/s1.png)
+![Alt text](/s1.PNG)

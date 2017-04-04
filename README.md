@@ -2,6 +2,10 @@
 
 > Online news site with vuejs. Powered by https://newsapi.org/
 
+## demo
+https://bibhuticoder.github.io/mero-news
+
+
 ## Build Setup
 
 ``` bash
@@ -18,5 +22,5 @@ npm run build
 npm run build --report
 ```
 
-#Screenshot
+# Screenshot
 ![Alt text](/s1.PNG)

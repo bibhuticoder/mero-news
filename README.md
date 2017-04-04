@@ -2,9 +2,6 @@
 
 > Online news site with vuejs. Powered by https://newsapi.org/
 
-## demo
-https://bibhuticoder.github.io/mero-news
-
 
 ## Build Setup
 
